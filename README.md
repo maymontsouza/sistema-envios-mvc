@@ -15,3 +15,7 @@ Neste projeto será utilizado:
 - Classe anônima ou programação funcional
 - Interface Comparable
 - Interface Comparator
+Alterações:
+- JTable
+- Banco de Dados
+- MVC
